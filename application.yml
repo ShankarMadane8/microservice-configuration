@@ -1,4 +1,5 @@
-application:
+spring:
+  application:
     name: USER-SERVICE
 eureka:
   instance:
